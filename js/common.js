@@ -37,11 +37,11 @@
 	/*----------------------------------------------------*/
 	/*  Smooth Scrolling When Come from another Page */
 	/*----------------------------------------------------*/
-	if(window.location.href.indexOf("#") > -1) {
-		$('html,body').animate({
-			scrollTop: $(window.location.hash).offset().top
-		}, 1000);
-	}
+	// if(window.location.href.indexOf("#") > -1) {
+	// 	$('html,body').animate({
+	// 		scrollTop: $(window.location.hash).offset().top
+	// 	}, 1000);
+	// }
 
 	/*----------------------------------------------------*/
 	/*  Scrollspy */
