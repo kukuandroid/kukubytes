@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-12:26:49	6900/6900	---MCZ	200	added ('OK')	text/html	etag:W/%225a71ee81-1af4%22	http://www.themesindustry.com/html/arone/index-twenty-five.html	/Users/khairulfilhan/websites/KukuLandingPage/www.themesindustry.com/html/arone/index-twenty-five.html	(from )
-12:26:50	81/81	---M--	200	added ('OK')	text/plain	etag:%22565d6c7d-51%22	http://www.themesindustry.com/robots.txt		(from )
